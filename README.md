@@ -42,18 +42,15 @@ When you select an item:
 2. Scroll to the **Tags** section
 3. You'll see either `_read` or `_unread` tag
 
-## After Installing the Update:
+## Install Guide
 
-1. **Remove the old plugin**:
-   - Tools → Add-ons → Find "Mark as Read" → Remove
-   
-2. **Restart Zotero**
 
-3. **Install the new version** (the updated .xpi file)
+1. **Install the latest version** (the updated .xpi file)
+  - Go to Zotero -> Tools -> Plugins -> Click the gear icon, and click Install Plugin -> select the .xmi file
 
-4. **Restart Zotero again**
+3. **Restart Zotero again**
 
-5. **Enable the Read column**:
+4. **Enable the Read column**:
    - Right-click any column header → Check "Read"
 
 The Read column should now appear and show checkmarks for items you've marked as read!
